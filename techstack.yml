@@ -1,0 +1,18 @@
+repo_name: Pigsorg/Publict-1-
+report_id: eca3b6d900dae139e6b5c9c5c62cf4da
+repo_type: Public
+timestamp: '2023-11-30T10:40:39+00:00'
+requested_by: DotEsparto1
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
